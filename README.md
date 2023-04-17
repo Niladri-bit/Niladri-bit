@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 I'm a Full-Stack Web Developer 💻, gamer 🎮, and finance enthusiast 💲!
 </h2> 
 
-I love the entire process of developing creative websites. I love learning new technologies and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of coding and developing new stuffs. I love learning new technologies and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
@@ -32,20 +32,20 @@ I love the entire process of developing creative websites. I love learning new t
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+<!-- ## 🔭 I'm currently working on
 
 - My old projects
 - Restaurant Recommendation App (React-Native)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
 - My next blog
-- My CSS skill
+- My CSS skill -->
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- Spring framework
+- Java
+- Full stack development
+
 
 ## 💼 Technical Skills
 
