@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAFgWvQDlfA/stYLcnXDRxxOPR9VKMVgLw/edit?utm_content=DAFgWvQDlfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></a>
+  
 </p>
 
 <h3 align="center">
