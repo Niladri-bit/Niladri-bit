@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Niladri-bit
+<!-- - 👋 Hi, I’m @Niladri-bit
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python and data science
-- 💞️ I’m looking to collaborate on my learning journey of python and data science
+- 💞️ I’m looking to collaborate on my learning journey of python and data science -->
 
 
 <!---
@@ -20,7 +20,8 @@ You can click the Preview link to take a look at your changes.
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Web Developer 💻, gamer ![image](https://user-images.githubusercontent.com/105626055/232516400-068e04f7-6cb6-4f67-9d4c-8c250d11b591.png)
+ 📸, and Designer 🎨!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
