@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAFgWvQDlfA/stYLcnXDRxxOPR9VKMVgLw/edit?utm_content=DAFgWvQDlfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="my banner">
+  <img src="https://www.canva.com/design/DAFgWvQDlfA/view" alt="my banner">
 </p>
 
 <h3 align="center">
