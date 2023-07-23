@@ -83,8 +83,8 @@ I love the entire process of coding and developing new stuffs. I love learning n
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niladri-bit)](https://github.com/Niladri-bit)
+[![Niladri's github stats](https://github-readme-stats.vercel.app/api?username=Niladri-bit)](https://github.com/Niladri-bit)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niladri-bit&layout=compact)](https://github.com/Niladri-bit)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+
