@@ -49,13 +49,14 @@ I love the entire process of coding and developing new stuffs. I love learning n
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)
+![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&logo=spring&color=6DB33F)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=Apache-Kafka&color=000000)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&color=2496ED)
+![](https://img.shields.io/badge/Code-ABAP-informational?style=flat&logo=SAP&color=0FAFFF)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
 </br>
