@@ -86,8 +86,10 @@ I love the entire process of coding and developing new stuffs. I love learning n
 
 ## 📈 GitHub Stats 
 
-[![Niladri's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Niladri-biT)](https://github.com/Niladri-bit)
+![Niladri's github Stats](https://github-readme-stats.vercel.app/api?username=Niladri-biT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niladri-bit&layout=compact)](https://github.com/Niladri-bit)
+![Niladri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niladri-biT&theme=vue-dark&hide_border=true)
+
+![Niladri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niladri-biT&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
