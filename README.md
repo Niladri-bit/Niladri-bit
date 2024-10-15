@@ -68,12 +68,14 @@ I love the entire process of coding and developing new stuffs. I love learning n
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&color=D24939)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=Apache-Maven&color=C71A36)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Cloud_Foundry-informational?style=flat&logo=CloudFoundry&color=0C6B93)
+
 
 ## 📝 Latest Blog Posts
 
