@@ -76,14 +76,6 @@ I love the entire process of coding and developing new stuffs. I love learning n
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Cloud_Foundry-informational?style=flat&logo=CloudFoundry&color=0C6B93)
 
-
-## 📝 Latest Blog Posts
-
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
-
 ## 📈 GitHub Stats 
 
 ![Niladri's github Stats](https://github-readme-stats.vercel.app/api?username=Niladri-biT&show_icons=true&count_private=true)
